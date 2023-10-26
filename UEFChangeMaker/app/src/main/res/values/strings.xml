@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UEFChangeMaker</string>
+    <string name="default_value">0</string>
+    <string name="str_vnd">VND:</string>
+    <string name="str_currency">Currency:</string>
+    <string name="str_one">1</string>
+    <string name="str_two">2</string>
+    <string name="str_three">3</string>
+    <string name="str_four">4</string>
+    <string name="str_five">5</string>
+    <string name="str_six">6</string>
+    <string name="str_seven">7</string>
+    <string name="str_eight">8</string>
+    <string name="str_nine">9</string>
+    <string name="str_zero">0</string>
+    <string name="str_clear">Clear</string>
+    <string name="str_settings">Settings</string>
+    <string name="str_number_decimal_places">Number decimal places:</string>
+    <string name="str_round_up">Round up:</string>
+    <string name="str_one_vnd">1 VND =</string>
+    <string name="str_add">Add</string>
+    <string name="str_edit">Edit</string>
+    <string name="str_remove">Remove</string>
+    <string name="str_number">Number</string>
+    <string name="currency">Currency</string>
+    <string name="exchange_rate">Exchange rate</string>
+</resources>
